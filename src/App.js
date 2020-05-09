@@ -1,12 +1,11 @@
 import React from 'react';
-import Homepage from './components/Homepage';
-import Searchbar from './components/Searchbar';
+import Homepage from './pages/Homepage'
 
 function App() {
   return( 
     <div>
-    <Homepage/>
-    <Searchbar/>
+   <Homepage/>
+
 
   </div>
   );

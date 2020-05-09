@@ -1,7 +1,6 @@
 import React from "react";
 
-
-function Searchbar(){
+function Search(){
     return (
         <form className="form-inline">
         <div className="form-group mx-sm-3 mb-2">
@@ -14,4 +13,6 @@ function Searchbar(){
     );
 }
 
-export default Searchbar;
+
+
+export default Search

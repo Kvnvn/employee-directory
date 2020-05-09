@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function Homepage(){
+function Jumbotron(){
     return (
         <div className="jumbotron jumbotron-fluid">
   <div className="container">
@@ -12,4 +12,4 @@ function Homepage(){
     );
 }
 
-export default Homepage;
+export default Jumbotron;
